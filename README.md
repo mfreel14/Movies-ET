@@ -10,3 +10,12 @@ The project creates an automated pipeline that takes in new data, performs the a
 ## Resources
 -  Data Source: ratings.csv, movies_metadata.csv, The Movies Dataset | Kaggle - https://www.kaggle.com/rounakbanik/the-movies-dataset
 -  Software:  Python 3.7.10,  Jupyter Notebook 6.4.0, Pandas 1.2.5, PostgresSQL/pgAdmin 5.2
+
+
+## Data Cleaning
+
+### Cleaned Kaggle Dataframes
+
+![data-08-first-five-rows-of-the-movies-df-DataFrame](https://user-images.githubusercontent.com/691355/144664556-77d0e12a-aa40-40fd-b24f-cfd7a3ac0caf.png)
+
+![data-08-first-five-rows-of-movies-with-ratings-df-DataFrame](https://user-images.githubusercontent.com/691355/144664581-f4225606-2510-43fa-a5ca-74c1d685f718.png)
